@@ -1,4 +1,4 @@
-# Qdus-Michael-Eritrean-Orthodox-Tewahdo-Church-in-Santa-Rosa-CA# Qdus-Michael-Eritrean-Orthodox-Tewahdo-Church-in-Santa-Rosa-CA
+# Qdus-Michael-Eritrean-Orthodox-Tewahdo-Church-in-Santa-Rosa-CA#
 CHURCH  DATA APP
 App for making bookings of time serves , administrating facilities and summarizing bookings father servis or church progaram  for each serves 
 
